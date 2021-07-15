@@ -4,7 +4,6 @@ class priorityQueue{
 public:
 
 	priorityQueue(){
-		cout<<"Ini"<<endl;
 	}
 
 	void insert(int data){
